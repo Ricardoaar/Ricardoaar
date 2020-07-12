@@ -12,6 +12,8 @@
 - 🤔 I’m looking for help with Game Development 🎮 Web development 💻 Mobile development 📱
  
 - 👯 I’m looking to collaborate on Unity Development 🎮
+
+- 🧑 Languages: Native spanish 🌮 english B2 🐒 Learning german 🧠
 <!--
 **Run19/Run19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
