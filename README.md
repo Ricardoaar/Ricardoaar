@@ -9,21 +9,11 @@
 
 - ⚡ Fun fact: Videogames 🎮 Music 🎵 TvSeries 📺 Reading 📖 Swimming 🏊‍ 
  
-- 🤔 I’m looking for help with Game Development 🎮 Web development 💻 Mobile development 📱
+- 🤔 I’m looking for help with Game Development 🎮 Machine Learning 💻 
  
 - 👯 I’m looking to collaborate on Unity Development 🎮
 
 - 🧑 Languages: Native spanish 🌮 english B2 🐒 Learning german 🧠
 <!--
 **Run19/Run19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-
 -->
