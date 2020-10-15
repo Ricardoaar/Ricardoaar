@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Run Games, my own videogames company
+- 🔭 I’m currently working on LAG inc.
 
 - 🌱 I’m currently learning on Platzi 💚 Master devs 👨 Udemy 🎈 and Unity Learn ❤
 
