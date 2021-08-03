@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on LAG inc.
+- 🔭 I’m currently Learning every single day
 
-- 🌱 I’m currently learning on Platzi 💚 Master devs 👨 Udemy 🎈 and Unity Learn ❤
+- 🌱 I’m currently learning on Platzi 💚  👨 Udemy 🎈 
 
 - 😄 Alias: Run, Ricardo, Rich, Ri
 
 - ⚡ Fun fact: Videogames 🎮 Music 🎵 TvSeries 📺 Reading 📖 Swimming 🏊‍ 
  
-- 🤔 I’m looking for help with Game Development 🎮 Machine Learning 💻 
+- 🤔 I’m looking for help with Web development and Machine Learning 💻 
  
-- 👯 I’m looking to collaborate on Unity Development 🎮
+- 👯 I’m looking to collaborate on Web development 💻
 
 - 🧑 Languages: Native spanish 🌮 english B2 🐒 Learning german 🧠
 <!--
