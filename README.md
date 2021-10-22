@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently Learning every single day
 
-- 🌱 I’m currently learning on Platzi 💚  👨 Udemy 🎈 
+- 🌱 I’m currently learning on Platzi 💚  
 
-- 😄 Alias: Run, Ricardo, Rich, Ri
+- 😄 Alias: Run, Ricardo, Rich, Ri, **Captain Run** (I love this last one)
 
 - ⚡ Fun fact: Videogames 🎮 Music 🎵 TvSeries 📺 Reading 📖 Swimming 🏊‍ 
  
@@ -18,7 +18,9 @@
  
 - 👯 I’m looking to collaborate on Web development 💻
 
-- 🧑 Languages: Native spanish 🌮 english B2 🐒 Learning german 🧠
+- 🧑 Languages: Native spanish 🌮 english B1+ 🐒 Learning german 🧠
+
+- **Platzi Master C8** 💚
 <!--
 **Run19/Run19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
