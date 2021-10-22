@@ -75,6 +75,13 @@ ___
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Run19)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Run19)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Run19)
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Run19" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Run19" width="45%">
+</div>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Run19" width="45%">
+
+
+</div>
