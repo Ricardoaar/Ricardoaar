@@ -31,6 +31,7 @@ ___
 ### Technologies:
 
 
+<div align="center">
 
 #### Main Languages and Dbs
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -78,7 +79,10 @@ ___
 
 
 
+</div>
+
 ___
+
 
 ### GitHub Stats
 
