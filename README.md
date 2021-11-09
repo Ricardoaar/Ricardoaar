@@ -70,13 +70,15 @@ ___
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 #### I also know
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
 ### Workspace Spec
 ![](https://img.shields.io/badge/NVIDIA-GTX1660s-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
