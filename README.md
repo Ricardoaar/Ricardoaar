@@ -12,8 +12,6 @@
 
 - 😄 Alias: Run, Ricardo, Rich, Ri, **Captain Run** (I love this last one)
 
-- ⚡ Fun fact: Videogames 🎮 Music 🎵 TvSeries 📺 Reading 📖 Swimming 🏊‍ 
- 
 - 🤔 I’m looking for help with Web development and Machine Learning 💻 
  
 - 👯 I’m looking to collaborate on Web development 💻
