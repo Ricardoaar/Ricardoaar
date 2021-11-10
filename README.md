@@ -4,10 +4,6 @@
 </div>
 
 ### Hi there 👋
-
-
-- 🔭 I’m currently Learning every single day
-
 - 🌱 I’m currently learning on Platzi 💚  
 
 - 😄 Alias: Run, Ricardo, Rich, Ri, **Captain Run** (I love this last one)
