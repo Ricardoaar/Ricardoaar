@@ -90,7 +90,7 @@ ___
 ### Contact Me!
 
 
-#### ![Linked In](https://www.linkedin.com/in/ricardo-rito-anguiano-9362801b0/)
+#### [Linked In](https://www.linkedin.com/in/ricardo-rito-anguiano-9362801b0/)
 
 ### GitHub Stats
 
