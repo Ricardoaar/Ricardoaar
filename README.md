@@ -12,6 +12,8 @@
 
 - 🧑 Languages: Native spanish 🌮 english B1+ 🐒 Learning german 🧠
 
+- 🤯 <a src="https://www.facebook.com/ricardo.ritoanguiano.7/" target="_blank"> Ask <a/> me about JS | PHP 🐘 | LARAVEL | Python 🐍 | Unity/C# | League of legends 😄
+
 - **Platzi Master C8** 💚
 <!--
 **Run19/Run19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
