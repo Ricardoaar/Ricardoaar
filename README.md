@@ -12,7 +12,7 @@
 
 - 🧑 Languages: Native spanish 🌮 english B1+ 🐒 Learning german 🧠
 
-- 🤯 [Ask](https://www.facebook.com/ricardo.ritoanguiano.7/) me about JS | PHP 🐘 | LARAVEL | Python 🐍 | Unity/C# | League of legends 😄
+- 🤯 [Ask](https://www.facebook.com/TheCaptainRun/) me about JS | PHP 🐘 | LARAVEL | Python 🐍 | Unity/C# | League of legends 😄
 
 
 
