@@ -90,7 +90,7 @@ ___
 I love doing personal projects, Backend and frontend no matter what, I'm passionated of coding to learn and practice any kind of development. These are some of my projects
 
 - [UtSaber](http://damp-hollows-15379.herokuapp.com/) Inegi Puebla data
-- [Run Burger](https://captainrun.github.io/Run-Burger/) Dummy burger shop website 
+- [Graphic Calculator](https://captainrun.github.io/Graphic-Calculator/)  
 
 ___
 
