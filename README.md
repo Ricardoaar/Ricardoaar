@@ -6,7 +6,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning on Platzi 💚  
 
-- 🤯 [Ask](https://www.linkedin.com/in/ricardo-rito-anguiano-9362801b0/) me about JS | PHP 🐘 | LARAVEL | Python 🐍 | Unity/C# | League of legends 😄
+- 🤯 [Ask](https://www.linkedin.com/in/ricardo-rito-anguiano-9362801b0/) me about Javascript | PHP 🐘 | LARAVEL | React Js | Unity/C# | TailwindCss
  
 - 👯 I’m looking to collaborate on Web development 💻
 
