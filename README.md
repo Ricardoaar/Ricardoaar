@@ -109,7 +109,7 @@ ___
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=captainrun" width="45%">
 </div>
 
-<div align="center">
+<div align="center" style="background-color:red">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainrun" width="45%">
 
 
