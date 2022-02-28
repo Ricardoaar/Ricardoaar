@@ -24,7 +24,7 @@
 ___
 
 <div align="center">
-## Technologies:
+ <h2> Technologies:</h2>
 </div>
 
 <div align="center">
