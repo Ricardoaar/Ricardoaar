@@ -106,10 +106,10 @@ ___
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=captainrun&show_icons=true&theme=dracula" width="45%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=captainrun" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=captainrun&theme=dracula" width="45%">
 </div>
 
 <div align="center" style="background-color:red">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainrun" width="45%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainrun&theme=dracula" width="45%">
 
 </div>
