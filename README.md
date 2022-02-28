@@ -23,8 +23,9 @@
 
 ___
 
-### Technologies:
-
+<div align="center">
+## Technologies:
+</div>
 
 <div align="center">
 
