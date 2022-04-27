@@ -4,7 +4,7 @@
 </div>
 
 ### Hi there 👋
-- 🌱 I’m currently working on Ubidots 💙 and learning on Platzi 💚  
+- 🌱 I’m currently working at Ubidots 💙 and learning on Platzi 💚  
 
 - 🤯 [Ask](https://www.linkedin.com/in/ricardo-rito-anguiano-9362801b0/) me about Javascript | PHP 🐘 | LARAVEL | React Js | Unity/C# | TailwindCss
  
