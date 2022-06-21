@@ -12,7 +12,6 @@
 
 - 🧑 Languages: Native spanish 🌮 english B1+ 🐒 Learning german 🧠
 
-- 😄 Alias: Run, Ricardo, Rich, Ri, **Captain Run** (I love this last one)
 
 
 - **Platzi Master C8** 💚
