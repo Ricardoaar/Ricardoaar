@@ -113,3 +113,13 @@ ___
 #### [Linked In](https://www.linkedin.com/in/ricardo-rito-anguiano-9362801b0/)
 
 
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=ricrdra&show_icons=true&theme=dracula" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricrdra&theme=dracula" width="45%">
+</div>
+
+<div align="center" style="background-color:red">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricrdra&theme=dracula" width="45%">
+
+</div>
+
