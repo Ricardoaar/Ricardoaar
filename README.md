@@ -10,7 +10,7 @@
  
 - 👯 I’m looking to collaborate in Web development 💻
 
-- 🧑 Languages: Native spanish 🌮 english B1+ 🐒 Learning german 🧠
+- 🧑 Languages: Native spanish 🌮 english B2 🐒 Learning French 🧠
 
 
 
