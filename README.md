@@ -118,8 +118,4 @@ ___
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricrdra&theme=dracula" width="45%">
 </div>
 
-<div align="center" style="background-color:red">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricrdra&theme=dracula" width="45%">
-
-</div>
 
