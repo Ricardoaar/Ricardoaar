@@ -6,7 +6,7 @@
 
 - 🤯  Node | React | Python 
  
-- 👯 I’m looking to collaborate in Web development 💻
+- 👯 I’m looking to collaborate in Web development and learn machine learning 💻
 
 - 🧑 Languages: Native spanish 🌮 english B2 🐒 Learning French 🧠
 
