@@ -2,9 +2,9 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently working at Ubidots 💙 and learning at Platzi 💚  
+- 🌱 I’m currently working at Ocelotbot   
 
-- 🤯  Node | React | Python 
+- 🤯  Node | React | Python | Love TS
  
 - 👯 I’m looking to collaborate in Web development and learn machine learning 💻
 
