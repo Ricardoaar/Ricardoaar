@@ -111,8 +111,8 @@ ___
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ricrdra&show_icons=true&theme=dracula" width="45%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricrdra&theme=dracula" width="45%">
+ <img src="https://github-readme-stats.vercel.app/api?username=ricardoaar&show_icons=true&theme=dracula" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoaar&theme=dracula" width="45%">
 </div>
 
 
