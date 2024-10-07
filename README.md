@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently working at Ocelotbot   
+- 🌱 I’m currently working at Keystone   
 
 - 🤯  Node | React | Python | Love TS
  
