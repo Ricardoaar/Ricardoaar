@@ -2,8 +2,6 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently working at Keystone   
-
 - 🤯  Node | React | Python | Love TS
  
 - 👯 I’m looking to collaborate in Web development and learn machine learning 💻
