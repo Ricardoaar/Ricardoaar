@@ -1,26 +1,4 @@
-
-
-
-### Hi there 👋
-- 🤯  Node | React | Python | Love TS
- 
-- 👯 I’m looking to collaborate in Web development and learn machine learning 💻
-
-- 🧑 Languages: Native spanish 🌮 english B2 🐒 Learning French 🧠
-
-- Visit my [website](https://web-ricardoaar.vercel.app/)!  
-
-
-<!--
-**Run19/Run19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-___
-
-<div align="center">
- <h2> Technologies:</h2>
-</div>
+Node | React | Python | TS
 
 <div align="center">
 
@@ -87,31 +65,8 @@ ___
 
 </div>
 
-___ 
-
-### Projects
-
-I love doing personal projects, Backend and frontend no matter what, I'm passionated of coding to learn and practice any kind of development. These are some of my projects
-
-- [UtSaber](http://damp-hollows-15379.herokuapp.com/) Inegi Puebla data
-- [Graphic Calculator](https://captainrun.github.io/Graphic-Calculator/)  
-- [Store with Payment Gateway](https://github.com/captainrun/store-payments-integration)
-- [Captain Avocados](https://captain-avocados.vercel.app/)
-- [Gethired-Community](https://gethired-community-c8.vercel.app/)
-
-
-___
-
 ### Contact Me!
 
 
 #### [Linked In](https://www.linkedin.com/in/ricardo-rito-anguiano-9362801b0/)
-
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ricardoaar&show_icons=true&theme=dracula" width="45%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoaar&theme=dracula" width="45%">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoaar&theme=dracula&layout=compact" />
-</div>
-
 
